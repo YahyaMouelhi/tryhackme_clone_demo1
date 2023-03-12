@@ -89,7 +89,7 @@ body{
 
 /* Introduction Div + Picture */
 .intro{
-    background-image: url("../images/linuxfund.png");
+    background-image: url("static/images/linuxfund.png");
     height: 250px;
     position: relative;
 }
